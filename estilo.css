@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(255, 243, 135);
+    color: black;
+    margin: 0;
+}
+
+.destaque{
+    background-color: red;
+    color: white;
+    margin: 4px;
+}
+
+.links{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: black;
+    background-color: rgb(124, 124, 124);  
+}
+
+.paragrafo{
+    color: red;
+    font-size: 25px;
+}
+
+.titulos{
+    color: red;
+    font-size: 40px;
+}
+
+.div1{
+    float: left; 
+    width: 20%; 
+    margin-top: 100px; 
+}
+
+.div2{
+    float: right; 
+    width: 75%; 
+    margin-top: 15px; 
+}
+.div3{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
